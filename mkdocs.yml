@@ -39,9 +39,9 @@ extra_css:
 plugins:
   - search
   #- offline
-  - glightbox:
-      skip_classes:
-        - skip-lightbox  
+  #- glightbox:
+  #    skip_classes:
+  #      - skip-lightbox  
   - mkdocstrings:
       handlers:
         python:
