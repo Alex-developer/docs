@@ -8,7 +8,7 @@ All data within Allsky is stored in consistent internal formats, so for example 
 
 Each variable within Allsky has a default format but you can override this. To overide a variables format double click on the field containing the variable then click on the ? button at the end of the format field
 
-![Format Dialog](/assets/overlay_images/format-dialog.png)
+![Format Dialog](assets/overlay_images/format-dialog.png)
 
 /// caption
 The Variable Format Dialog
@@ -47,7 +47,7 @@ This allows numbers ot be formatted, setting decimal places etc
 |--------|-------------|---------|
 |Custom number	|Displays the number format dialog	| N/A |
 
-![Format Number](/assets/overlay_images/formatting-numbers.png)
+![Format Number](assets/overlay_images/formatting-numbers.png)
 
 /// caption
 The Number Format Dialog

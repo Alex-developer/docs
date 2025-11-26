@@ -1,9 +1,7 @@
 site_name: Allsky Documentation
-site_url: "https://docs.allsky.local"
-site_dir: "html/docs"
-
-repo_url: https://github.com/AllskyTeam
-repo_name: Allsky
+site_url: https://alex-developer.github.io/docs/
+repo_url: https://github.com/Alex-developer
+repo_name: docs
 
 use_directory_urls: false
 
