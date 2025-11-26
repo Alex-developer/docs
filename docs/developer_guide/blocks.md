@@ -4,7 +4,7 @@ Blocks are predefined groups of variables defined in a column/row layout that ca
 
 Blocks are accessed from the variable managier when editing an overlay
 
-![Blocks]({{ base_url }}/assets//developer_images/blocks.png)
+![Blocks](/assets//developer_images/blocks.png)
 
 /// caption
 The blocks tab in the variable manager

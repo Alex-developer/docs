@@ -14,7 +14,7 @@ The Overlay Editor web page consists of two key areas:
 
     New fields are initially added to the upper left corner of the overlay but can be moved anywhere you want - just drag and drop! If you added a field by mistake, delete it by clicking on the  icon (4) before doing anything else.
 
-![Variable Dialog]({{ base_url }}/assets//overlay_images/toolbar.png)
+![Variable Dialog](/assets//overlay_images/toolbar.png)
 
 /// caption
 The Overlay Editor toolbar
@@ -57,7 +57,7 @@ There are various keyboard and mouse shortcuts used by the overlay manager
 ### Variable Manager
 The variable manager allows you to select variables and add them to overlays as a field. I also allows block of fields to be added
 
-![Variable Manager]({{ base_url }}/assets//overlay_images/variable-manager.png)
+![Variable Manager](/assets//overlay_images/variable-manager.png)
 
 /// caption
 The Variable Manager Dialog
@@ -69,7 +69,7 @@ The Variable Manager Dialog
 
 To add a variable either double click it or single click it and click the 'Select' button
 
-![Variable Manager Blocks]({{ base_url }}/assets//overlay_images/variable-manager-blocks.png)
+![Variable Manager Blocks](/assets//overlay_images/variable-manager-blocks.png)
 
 /// caption
 The Variable Manager Blocks Dialog
@@ -83,7 +83,7 @@ This dialog allows blocks to be added to the overlay, blocks are a collection of
 ### Overlay Manager
 The Overlay Manager is used to create and enable overlays for day and nighttime capture.
 
-![Overlay manager]({{ base_url }}/assets//overlay_images/overlay-manager-full.png)
+![Overlay manager](/assets//overlay_images/overlay-manager-full.png)
 
 /// caption
 The Overlay Manager
@@ -99,7 +99,7 @@ During an upgrade from a previous version of Allsky the Module Manager will atte
 
 #### Main Tab
 
-![Overlay manager main]({{ base_url }}/assets//overlay_images/overlay-manager.png)
+![Overlay manager main](/assets//overlay_images/overlay-manager.png)
 
 **Field Details**
 
@@ -122,7 +122,7 @@ During an upgrade from a previous version of Allsky the Module Manager will atte
 
 #### Options Tab
 
-![Overlay manager config]({{ base_url }}/assets//overlay_images/overlay-manager-config.png)
+![Overlay manager config](/assets//overlay_images/overlay-manager-config.png)
 
 **Field Details**
 
@@ -140,7 +140,7 @@ Overlays can be limited to daytime, nighttime capture or both. Only the availabl
 
 To create a new overlay click the + icon (4). A new dialog will be displayed allowing you to create the new overlay.
 
-![Overlay manager add]({{ base_url }}/assets//overlay_images/overlay-manager-add.png)
+![Overlay manager add](/assets//overlay_images/overlay-manager-add.png)
 
 /// caption
 Add new overlay main tab
@@ -157,7 +157,7 @@ Add new overlay main tab
     By default when an overlay is created it is activated for day/night or both as defined by the 'Available For' dropdown. If you DO NOT want the overlay to be activated by default then select 'No' in the 'Activate After Creation' option.
 
 
-![Overlay manager add adv]({{ base_url }}/assets//overlay_images/overlay-manager-add-adv.png)
+![Overlay manager add adv](/assets//overlay_images/overlay-manager-add-adv.png)
 
 /// caption
 Add new overlay advanced tab
@@ -195,7 +195,7 @@ The Font Manager allows you to manage fonts used in overlays. It supports all ma
     In version 2024.12.06_06 and before you were required to add fonts to the overlay in the Fonat Manager before they could be used. This is no longer a requirement and the fonts used in an overlay are automatically managed
 
 
-![Font Manager]({{ base_url }}/assets//overlay_images/font-manager.png)
+![Font Manager](/assets//overlay_images/font-manager.png)
 
 /// caption
 The Font Manager Dialog
@@ -214,7 +214,7 @@ The Font Manager Dialog
 #### Font Preview
 The Font Preview dialog allows you to preview any installed font, including system fonts.
 
-![Font Preview]({{ base_url }}/assets//overlay_images/font-manager-preview.png)
+![Font Preview](/assets//overlay_images/font-manager-preview.png)
 
 /// caption
 The Font Manager Preview Dialog
@@ -228,7 +228,7 @@ The Font Manager Preview Dialog
 ### Image Manager
 The Image Manager allows you to upload images for use on overlays and create masks for certain functions such as star and meteor detection. Allsky comes with several basic images.
 
-![Image manager]({{ base_url }}/assets//overlay_images/image-manager.png)
+![Image manager](/assets//overlay_images/image-manager.png)
 
 /// caption
 The Image Manager Dialog
@@ -255,7 +255,7 @@ For more complex masks its possible to blend the black to white transisiotn in t
 
 The Mask Editor has two modes, Easy and Expert, the default is Easy mode. In Easy mode all you do is draw a white ellipse to capture the areas you wish to keep, when you ssave the mask the bacl areas will be automatically added. In Expert mode you have a series of drawing tools you can use to create much more detailed masks including blended edges on shapes to help with false positives on edge detection.
 
-![Mask editor]({{ base_url }}/assets//overlay_images/mask-editor.png)
+![Mask editor](/assets//overlay_images/mask-editor.png)
 
 /// caption
 The Mask Editor Dialog
@@ -283,7 +283,7 @@ The overlay Editor has three tabs for settings
 - **Editor Settings** Settings that apply the the Overlay Editor
 - **Overlays** - Available overlays to edit
 
-![Overlay Settings layout]({{ base_url }}/assets//overlay_images/overlay-settings-layout.png)
+![Overlay Settings layout](/assets//overlay_images/overlay-settings-layout.png)
 
 /// caption
 The Overlay Settings
@@ -301,7 +301,7 @@ The Overlay Settings
 10. The default text used when a field has expired.
 
 
-![Overlay Settings editor]({{ base_url }}/assets//overlay_images/overlay-settings-editor.png)
+![Overlay Settings editor](/assets//overlay_images/overlay-settings-editor.png)
 
 /// caption
 The Overlay Editor Settings
@@ -323,7 +323,7 @@ The Overlay Editor Settings
         When changing the brightness settings you may need to click somewhere in the overlay in order for the change to take affect.
 
 
-![Overlay Settings overlays]({{ base_url }}/assets//overlay_images/overlay-settings-overlays.png)
+![Overlay Settings overlays](/assets//overlay_images/overlay-settings-overlays.png)
 
 /// caption
 The Overlay Editor Overlays

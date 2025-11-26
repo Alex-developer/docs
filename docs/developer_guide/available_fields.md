@@ -95,7 +95,7 @@ This displays a dialog allowing the user to select an i2c address. The dialog wi
 }
 ```
 
-![i2c Dialog]({{ base_url }}/assets//developer_images/i2c.png)
+![i2c Dialog](/assets//developer_images/i2c.png)
 
 /// caption
 The i2c device selection dialog
@@ -118,7 +118,7 @@ This field will allow the user to select a gpio pin using a graphical interface.
 }
 ```
 
-![GPIO Dialog]({{ base_url }}/assets//developer_images/gpio.png)
+![GPIO Dialog](/assets//developer_images/gpio.png)
 
 /// caption
 The GPIO pin selection dialog
@@ -139,7 +139,7 @@ This allows the user to select or upload an image. Typically this would be used 
 }
 ```
 
-![Image Dialog]({{ base_url }}/assets//developer_images/image.png)
+![Image Dialog](/assets//developer_images/image.png)
 
 /// caption
 The image selection dialog
@@ -161,7 +161,7 @@ This allows the user to select a region Of Interest (ROI) in the image. This wil
 }
 ```
 
-![RIO Dialog]({{ base_url }}/assets//developer_images/roi.png)
+![RIO Dialog](/assets//developer_images/roi.png)
 
 /// caption
 The RIO selection dialog
@@ -184,7 +184,7 @@ The ‘selectmode’ option has to options ‘single’ or ‘multi’. This con
 }
 ```
 
-![Variable Dialog]({{ base_url }}/assets//developer_images/variable.png)
+![Variable Dialog](/assets//developer_images/variable.png)
 
 /// caption
 The Variable selection dialog
@@ -217,13 +217,13 @@ This field allows the user to select a position from a map. There are three addi
 }
 ```
 
-![Position fields]({{ base_url }}/assets//developer_images/position.png)
+![Position fields](/assets//developer_images/position.png)
 
 /// caption
 The Position fields on a module dialog
 ///
 
-![Position map]({{ base_url }}/assets//developer_images/position-map.png)
+![Position map](/assets//developer_images/position-map.png)
 
 /// caption
 The map location selection dialog
@@ -244,7 +244,7 @@ This field allows a url to be entered and validate using a button. The validatio
 }
 ```
 
-![url]({{ base_url }}/assets//developer_images/url.png)
+![url](/assets//developer_images/url.png)
 
 /// caption
 The URL entry fields
@@ -273,7 +273,7 @@ This field allows a host and port number to ben entered. There are two additiona
 }
 ```
 
-![host]({{ base_url }}/assets//developer_images/host.png)
+![host](/assets//developer_images/host.png)
 
 /// caption
 The Host entry fields
@@ -298,7 +298,7 @@ For this field to work there are a few criteria that have to be met
 }
 ``
 
-![graph]({{ base_url }}/assets//developer_images/graph.png)
+![graph](/assets//developer_images/graph.png)
 
 /// caption
 The Module Graph
@@ -323,7 +323,7 @@ This field is used to display text on the modules dialog settings. The ‘alert�
 }
 ```
 
-![notice]({{ base_url }}/assets//developer_images/notice.png)
+![notice](/assets//developer_images/notice.png)
 
 /// caption
 The Notice field
@@ -353,7 +353,7 @@ This field is used to display HTML in a modules dialog. There are a few addition
 }
 ```
 
-![html]({{ base_url }}/assets//developer_images/html.png)
+![html](/assets//developer_images/html.png)
 
 /// caption
 The HTML field
