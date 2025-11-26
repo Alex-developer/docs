@@ -1,6 +1,6 @@
 Charts allows you to display data from Allsky and modules within the WebUI
 
-![WebUI Charts](assets/developer_images/webuicharts.png)
+![WebUI Charts]({{ base_url }}/assets//developer_images/webuicharts.png)
 
 /// caption
 The Web UI Charts Page
@@ -26,11 +26,11 @@ There other charts types supported all of which are standard Highcharts so pleas
 
 <div class="grid cards" markdown>
 
-![Line Single](assets/developer_images/line-single.png) 
+![Line Single]({{ base_url }}/assets//developer_images/line-single.png) 
 /// caption 
 Single axis line chart 
 ///
-![Line Multiple](assets/developer_images/line-multiple.png) 
+![Line Multiple]({{ base_url }}/assets//developer_images/line-multiple.png) 
 /// caption 
 Multi axis line chart 
 ///
@@ -128,7 +128,7 @@ The configuration for a spline chart is identical to a line chart except the **t
 
 ### Gauges
 
-![Gauge](assets/developer_images/gauge.png) 
+![Gauge]({{ base_url }}/assets//developer_images/gauge.png) 
 /// caption 
 An example Gauge 
 ///
@@ -153,7 +153,7 @@ Gauges can be built using a very simple config as below.
 
 Gauges can also be overriden using Highcharts to customise the view
 
-![Custom Gauge](assets/developer_images/gauge-custom.png) 
+![Custom Gauge]({{ base_url }}/assets//developer_images/gauge-custom.png) 
 /// caption 
 An example custom Gauge 
 ///
@@ -229,7 +229,7 @@ The full extent of customisation is beyon the scope o this document. Please refe
 ### Yes/No Charts
 These simply display text based upon a thruthy value.
 
-![Yesno Gauge](assets/developer_images/yesno.png) 
+![Yesno Gauge]({{ base_url }}/assets//developer_images/yesno.png) 
 /// caption 
 An example Yes / No Chart 
 ///

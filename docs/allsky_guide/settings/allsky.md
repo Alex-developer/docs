@@ -3,7 +3,7 @@ After you install Allsky for the first time there are many settings you must mod
 The list of settings available in the WebUI depends on your camera model; settings specific to a camera type (e.g., RPi or ZWO) are indicated as such in the table below. Where appropriate, the WebUI displays the minimum, maximum, and default values when you hover over a value, and only displays settings the camera supports, like cooler temperature for cooled cameras.
 
 
-![settings page](assets/settings_images/AllskySettingsPage.png)
+![settings page]({{ base_url }}/assets//settings_images/AllskySettingsPage.png)
 
 /// caption
 The Allsky Settings Page
