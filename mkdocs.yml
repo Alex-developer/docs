@@ -8,7 +8,7 @@ use_directory_urls: false
 validation:
   links:
     absolute_links: relative_to_docs
-    
+
 theme:
   name: material
   logo: assets/images/logo.png
@@ -123,8 +123,8 @@ nav:
       - Charts: developer_guide/charts.md
       - Blocks: developer_guide/blocks.md
       - Dependencies: developer_guide/dependencies.md
+    - SDK Reference:
+      - shared: allsky_shared.md
+      - base: allsky_base.md
+      - Allsky Server API: allsky_api.md
     - Contributing: developer_guide/contributing.md
-  - SDK Reference:
-    - shared: allsky_shared.md
-    - base: allsky_base.md
-    - Allsky Server API: allsky_api.md
