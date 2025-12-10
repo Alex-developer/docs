@@ -2,122 +2,242 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://alex-developer.github.io/docs/index.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_api.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_base.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_shared.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_guide/3d.html</loc>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/allsky.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_guide/alternatives.html</loc>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/server.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/website.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/extra.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/fieldsandvariables.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/formatting.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/how.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/interface.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/overview.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/sunmoon.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/overlays/tips.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/settings/allsky.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/allsky_guide/settings/website.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/introduction.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/exposure_rect.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/histogram.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/load_image.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/mask_image.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/overlay.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/save_image.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/core/star_count.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/adsb.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/border.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/dew_heater.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/discord.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/environment.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/esp32round.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/fans.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/gpio.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/hddtemp.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/image_tuning.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/ina3221.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/influxdb.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/introduction.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/json_import.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/light.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/lightning.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/ltr390.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/mlx90640.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/power.html</loc>
+         <lastmod>2025-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://alex-developer.github.io/docs/allsky_modules/extra/publish_data.html</loc>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/available_fields.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/blocks.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/charts.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/contributing.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/dependencies.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/folder_structure.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/glossary.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/introduction.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/meta_data_example.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/meta_data_structure.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/module_structure.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/overview.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
          <loc>https://alex-developer.github.io/docs/developer_guide/shared_libraries.html</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-12-10</lastmod>
     </url>
 </urlset>
