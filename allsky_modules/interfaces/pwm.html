@@ -5256,7 +5256,7 @@
 <p>Raspberry Pi 5 introduces a new I/O controller (<strong>RP1</strong>), so PWM is provided by a different driver.</p>
 <h3 id="enable-pwm-pi-5">Enable PWM (Pi 5)<a class="headerlink" href="#enable-pwm-pi-5" title="Permanent link">¶</a></h3>
 <p>Edit:</p>
-<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>nano<span class="w"> </span>/boot/config.txt
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>nano<span class="w"> </span>/boot/firmware/config.txt
 </code></pre></div>
 <p>Add:</p>
 <div class="highlight"><pre><span></span><code><span class="na">dtoverlay</span><span class="o">=</span><span class="s">rp1-pwm</span>
